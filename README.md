@@ -1,6 +1,6 @@
 Hi, I'm **vking1996**
 
-I build things with AI -- short films, automation scripts, prompt engineering.
+I build things with Python and AI.
 Open to collaboration and paid work.
 
 ---
@@ -9,18 +9,17 @@ Open to collaboration and paid work.
 
 | Area | Examples |
 |------|----------|
-| **AI Short Films** | 15s cinematic shorts (Seedance 2.0). Crime noir, dark thriller. Full pipeline: prompt generation, audio post-production. |
 | **Python Scripting** | Automation, data processing, web scraping, file batch processing. |
 | **Prompt Engineering** | Seedance 5-segment video prompts, Bing/Midjourney image prompts, LLM system prompts. |
 
 ### Tech Stack
 
-Python, ffmpeg, Docker, Git, Hermes Agent, Seedance 2.0
+Python, ffmpeg, Docker, Git, Hermes Agent
 
 ### Reach Me
 
-Open an issue or find me on Xianyu.
+Open an issue on any of my repos.
 
 ---
 
-*Currently building: AI short films with Guy Ritchie x Dark Knight aesthetic.*
+*Currently building: automation tools and AI workflows.*
