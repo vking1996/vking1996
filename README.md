@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I'm **vking1996**
 
-<!--
-**vking1996/vking1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things with AI — short films, automation scripts, prompt engineering.
+Open to collaboration and paid work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  What I Do
+
+| Area | Examples |
+|------|----------|
+| **AI Short Films** | 15s cinematic shorts (Seedance 2.0). Crime noir, dark thriller. Full pipeline: prompt generation audio post-production. |
+| **Python Scripting** | Automation, data processing, web scraping, file batch processing. |
+| **Prompt Engineering** | Seedance 5-segment video prompts, Bing/Midjourney image prompts, LLM system prompts. |
+| **Screenwriting** | Short-form narrative structure, twist design, noir visual storytelling. |
+
+###  Tech Stack
+
+Python ffmpeg Docker Git Hermes Agent Seedance 2.0
+
+###  Reach Me
+
+Open an issue or find me on /Xianyu.
+
+---
+
+*Currently building: AI short films with Guy Ritchie Dark Knight aesthetic.*
